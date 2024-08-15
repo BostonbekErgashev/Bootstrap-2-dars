@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(29, 30, 79);
+}
+.container{
+    line-height: 10px;
+    margin-top: 180px;
+    margin-left: 100px;
+}
+.ese{
+    text-align: center;
+}
+.bobo{
+    border-radius: 30px;
+}
+.nono{
+    margin-left: 5px;
+}

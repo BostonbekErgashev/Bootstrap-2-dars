@@ -1,0 +1,27 @@
+img{
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+/* .row{
+    width: 2400px;
+    height: 100px;
+    margin-top: 600px;
+    margin-left: -600px;
+} */
+.box{
+    background: linear-gradient(20deg, yellow, orange);
+    border-radius: 50px;
+}
+.box2{
+    background: linear-gradient(20deg, pink, purple);
+    border-radius: 50px;
+}
+.box3{
+    background: linear-gradient(20deg, lightblue, blue);
+    border-radius: 50px;
+}
+.box4{
+    background: linear-gradient(20deg, lightblue, aqua);
+    border-radius: 50px;
+}
